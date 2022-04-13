@@ -34,7 +34,7 @@ I got tired of bookmarking everything I found useful in my browser, so here's an
 - [RNA Seq Workflow with Snakemake](http://pedagogix-tagc.univ-mrs.fr/courses/ABD/practical/snakemake/snake_intro.html)
 - [Real Time Genomics Tools: Some neat simulation tools and other stuff](https://www.realtimegenomics.com/products/rtg-tools)
 - [Mike Love RNA seq twitter thread](https://twitter.com/mikelove/status/1513468597288452097)
-- 
+- [UCSC List of tools](https://hgdownload.cse.ucsc.edu/admin/exe/linux.x86_64/)
 
 ## PROGRAMMING
 
