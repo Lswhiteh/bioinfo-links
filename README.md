@@ -22,6 +22,7 @@ I got tired of bookmarking everything I found useful in my browser, so here's an
 - [Inkscape: draw pretty pictures](https://inkscape.org)
 - [How to Write a Scientific Review Article: wait you mean I have to __read__ the papers?](https://blog.addgene.org/how-to-write-a-scientific-review-article)
 - [Overleaf: LaTex but fancier](https://www.overleaf.com)
+- [An extremely clear and concise way to communicate when reviewing/commenting on something](https://conventionalcomments.org)
 
 ## NGS
 
