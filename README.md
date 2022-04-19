@@ -24,6 +24,7 @@ I got tired of bookmarking everything I found useful in my browser, so here's an
 - [Overleaf: LaTex but fancier](https://www.overleaf.com)
 - [An extremely clear and concise way to communicate when reviewing/commenting on something](https://conventionalcomments.org)
 - [One of the best set of bulletpoints for effective team management I've seen](https://twitter.com/MrEchs/status/1516024322409832450)
+- [Erik Anderson's lab has an excellent example "Dry Lab Guide"](http://andersenlab.org/dry-guide/2022-03-09/)
 
 ## NGS
 
