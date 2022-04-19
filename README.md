@@ -23,6 +23,7 @@ I got tired of bookmarking everything I found useful in my browser, so here's an
 - [How to Write a Scientific Review Article: wait you mean I have to __read__ the papers?](https://blog.addgene.org/how-to-write-a-scientific-review-article)
 - [Overleaf: LaTex but fancier](https://www.overleaf.com)
 - [An extremely clear and concise way to communicate when reviewing/commenting on something](https://conventionalcomments.org)
+- [One of the best set of bulletpoints for effective team management I've seen](https://twitter.com/MrEchs/status/1516024322409832450)
 
 ## NGS
 
