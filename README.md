@@ -6,14 +6,15 @@ I got tired of bookmarking everything I found useful in my browser, so here's an
 
 - [COOL STUFF FOR COOL PEOPLE DOING COOL SCIENCE :sunglasses:](#cool-stuff-for-cool-people-doing-cool-science-sunglasses)
   - [TABLE OF CONTENTS](#table-of-contents)
-  - [GENERAL](#general)
+  - [GENERAL SCIENCE](#general-science)
   - [NGS](#ngs)
-  - [PROGRAMMING](#programming)
+  - [GENERAL PROGRAMMING](#general-programming)
+  - [BASH/CLI](#bash)
   - [PYTHON](#python)
   - [MACHINE LEARNING](#machine-learning)
   - [MATH](#math)
 
-## GENERAL
+## GENERAL SCIENCE
 
 - [Software Carpentry: I have no jokes, this is one of the most valuable resources I've ever come across](https://software-carpentry.org/lessons/)
 - [Biorender: for when you want all the features of powerpoint without saying you used powerpoint](https://biorender.com)
@@ -39,7 +40,7 @@ I got tired of bookmarking everything I found useful in my browser, so here's an
 - [Mike Love RNA seq twitter thread](https://twitter.com/mikelove/status/1513468597288452097)
 - [UCSC List of tools](https://hgdownload.cse.ucsc.edu/admin/exe/linux.x86_64/)
 
-## PROGRAMMING
+## GENERAL PROGRAMMING
 
 - [Docker: so Mac users can't complain about your software not working on their 2014 Air](https://www.docker.com)
 - [A Guide to Good Research Code: you mean I can't just write 5 bash scripts and call it a day?](https://goodresearch.dev)
@@ -47,14 +48,18 @@ I got tired of bookmarking everything I found useful in my browser, so here's an
 - [A Cloud Guru: Someone told me they use this to train newhires in industry for cloud computing](https://acloudguru.com)
 - [VSCode Keyboard Shortcuts: now you can have emacs pinky without the pain of using emacs!](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 - [github1s: Lets you use VSCode in a browser to see github repos](https://github1s.com)
+- [ChooseALicense: do you really need something that isn't MIT?](https://choosealicense.com/licenses/)
+- [Rstudio Cloud: waaaaaaaaaaay easier to use for classes than having everyone installing](https://login.rstudio.cloud/login?r)
+- [Markdown2Pdf: pandoc? what's that?](http://markdown2pdf.com/index.html)
+
+## BASH
+
+- [Terminal-based delimited data tool](https://www.visidata.org)
 - [Automation and Make: it's not just for C++!](https://swcarpentry.github.io/make-novice/)
 - [Vim Cheat Sheet: so you don't get trapped in eternity at the Vim start page](https://vim.rtorr.com)
 - [Regex Crossword: as if writing regex for NGS file headers wasn't enough fun](https://regexcrossword.com)
-- [ChooseALicense: do you really need something that isn't MIT?](https://choosealicense.com/licenses/)
 - [glogg: because sifting through logfiles is lame](https://glogg.bonnefon.org/index.html)
 - [crontab guru: for when you really want to piss of sysadmins of your local HPC](https://crontab.guru)
-- [Rstudio Cloud: waaaaaaaaaaay easier to use for classes than having everyone installing](https://login.rstudio.cloud/login?r)
-- [Markdown2Pdf: pandoc? what's that?](http://markdown2pdf.com/index.html)
 - [Pandoc: a very useful document conversion tool](https://pandoc.org)
 
 ## PYTHON
