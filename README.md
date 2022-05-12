@@ -39,6 +39,7 @@ I got tired of bookmarking everything I found useful in my browser, so here's an
 - [Real Time Genomics Tools: Some neat simulation tools and other stuff](https://www.realtimegenomics.com/products/rtg-tools)
 - [Mike Love RNA seq twitter thread](https://twitter.com/mikelove/status/1513468597288452097)
 - [UCSC List of tools](https://hgdownload.cse.ucsc.edu/admin/exe/linux.x86_64/)
+- [Excellent workflow language tutorial](https://ricomnl.com/blog/bottom-up-bioinformatics-pipeline/)
 
 ## GENERAL PROGRAMMING
 
