@@ -29,6 +29,7 @@ I got tired of bookmarking everything I found useful in my browser, so here's an
 
 ## NGS
 
+- [Great list of textbooks for bioinformatics](http://crazyhottommy.blogspot.com/2019/09/my-opinionated-selection-of-booksurls.html)
 - [EMBL Tutorials: lot of great walkthroughs, some specific to EMBL-EBI, some not](https://www.ebi.ac.uk/training/on-demand?facets=type:Online%20tutorial)
 - [Biostars Tutorials: Did you know biostars isn't just a site for asking the same question about what the SAM bitflag field means for two decades?](https://www.biostars.org/t/tutorials/)
 - [Biostars Handbook: Where you can read about what the SAM bitflag field means without asking some postdoc trying to procrastinate their work](https://www.biostars.org/p/225812/)
