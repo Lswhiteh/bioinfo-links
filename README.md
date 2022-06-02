@@ -44,6 +44,7 @@ I got tired of bookmarking everything I found useful in my browser, so here's an
 
 ## GENERAL PROGRAMMING
 
+- [Guide to Scientific Programming Reproducibility](https://reproducibility.sschmeier.com/index.html)
 - [Docker: so Mac users can't complain about your software not working on their 2014 Air](https://www.docker.com)
 - [A Guide to Good Research Code: you mean I can't just write 5 bash scripts and call it a day?](https://goodresearch.dev)
 - [How to think like a computer scientist: lots of coffee](https://runestone.academy/ns/books/published/thinkcspy/index.html)
