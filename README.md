@@ -29,6 +29,7 @@ I got tired of bookmarking everything I found useful in my browser, so here's an
 
 ## NGS
 
+- [Bioinfo Courses/Books](https://twitter.com/tangming2005/status/1584960033695141896)
 - [Tommy Tang's one liners](https://github.com/crazyhottommy/oneliner_100day_challenge)
 - [Bioinformatics course, covers most of the basics](https://liulab-dfci.github.io/bioinfo-combio/)
 - [Great list of textbooks for bioinformatics](http://crazyhottommy.blogspot.com/2019/09/my-opinionated-selection-of-booksurls.html)
