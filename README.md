@@ -87,6 +87,7 @@ I got tired of bookmarking everything I found useful in my browser, so here's an
 - [9 Tools I wish I had learned before my PhD in Machine Learning: some of these are already on here, dang I'm good](https://towardsdatascience.com/nine-tools-i-wish-i-mastered-before-my-phd-in-machine-learning-708c6dcb2fb0)
 - [DL2AI: One of the best intros to NN math I've seen](https://d2l.ai/chapter_preface/index.html)
 - [Goodfellow Deep Learning Book: free math, and also free math](https://www.deeplearningbook.org)
+- [Excellent slides on Time Series Forecasting](https://cbergmeir.com/talks/FFDS_ACML2020.pdf)
 
 ## MATH
 
